@@ -1,0 +1,23 @@
+#form_login {
+    position: absolute;
+    background-color: white;
+    display:flex;
+    width: 70%;
+    height: 40%;
+    margin: 0 auto;
+    margin-top: 15%;
+}
+#form_login input {
+    background: white;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	color: #777777;
+	height: 34px;
+	/* PARA HACER: Los bordes de los inputs del formulario deben ser redondeados de radio 5px, con color rgb(189, 199, 216) */
+	border-radius: 5px;
+	border-color: rgb(189, 199, 216);
+
+	margin-bottom: 10px;
+    line-height: 16px;
+    /* margin: 0 auto; */
+}
